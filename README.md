@@ -1,1 +1,1 @@
-# CodeClouds-NFT-Solidity-Contract
+# CodeClouds-NFT-Contract-ERC721-Solidity
